@@ -1,4 +1,5 @@
 # vue-node-chart
+This is a fullstack application with VueJS frontend and NodeJS backend, also it can draw charts based on data returned from backend REST api.
 
 ## Project setup
 ```
